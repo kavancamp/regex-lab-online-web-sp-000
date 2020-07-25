@@ -22,4 +22,5 @@ if  !!phone.scan(/
  true
  else false
 
+   end
 end
